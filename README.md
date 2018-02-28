@@ -1,2 +1,2 @@
 # 9.-Github-a-git
-This is a repositary for my school project.
+I have created this repositar because Mrs Martinek gave me this task from his project Peer Blender.
